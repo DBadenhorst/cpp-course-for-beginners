@@ -1,3 +1,5 @@
+I think this is a amazing course
+
 # Install VSC on MAC
 Installation: https://code.visualstudio.com/docs/setup/mac
 
